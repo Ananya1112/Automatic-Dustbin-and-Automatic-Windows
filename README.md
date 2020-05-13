@@ -10,6 +10,7 @@ Under this, we have made an automatic dustbin and an automatic window.
 
     Automatic dustbin makes a normal dustbin automatic by making it open and close automatically
     upon the nearing of your hand. It uses ultrasonic sensors to accomplish this. 
+    The dustbin will also inform us when it is full by ringing a buzzer.
     Materials you will be needing: Arduino UNO, UltraSonic sensors, Jumper Wires, Stepper Motors, etc.
         
 ### 2.)**Automatic Window:**
